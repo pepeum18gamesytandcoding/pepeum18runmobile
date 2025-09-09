@@ -1,2 +1,3 @@
 # gergbreathofthestonesmobile
-GET OUT OF HERE IT IS FOR DEBUG
+THIS IS FOR MOBILE
+ IT WILL RELEASE AS A APK
